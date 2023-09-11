@@ -1,0 +1,386 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aarribas\\Source\\repos\\Topology\\Topology\\Topology.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\DataAccessCrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\DataAccessCrossCutting.csproj",
+        "projectName": "DataAccessCrossCutting",
+        "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\DataAccessCrossCutting.csproj",
+        "packagesPath": "C:\\Users\\aarribas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aarribas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj",
+        "projectName": "DomainCrossCutting",
+        "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj",
+        "packagesPath": "C:\\Users\\aarribas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aarribas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDataAccess\\TopologyDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDataAccess\\TopologyDataAccess.csproj",
+        "projectName": "TopologyDataAccess",
+        "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDataAccess\\TopologyDataAccess.csproj",
+        "packagesPath": "C:\\Users\\aarribas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aarribas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\DataAccessCrossCutting.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\DataAccessCrossCutting.csproj"
+              },
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj"
+              },
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDomain\\TopologyDomain.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDomain\\TopologyDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDomain\\TopologyDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDomain\\TopologyDomain.csproj",
+        "projectName": "TopologyDomain",
+        "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDomain\\TopologyDomain.csproj",
+        "packagesPath": "C:\\Users\\aarribas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aarribas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFrameworkCore.SqlServer.HierarchyId": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aarribas\\Source\\repos\\Topology\\Topology\\Topology.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Topology\\Topology.csproj",
+        "projectName": "Topology",
+        "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Topology\\Topology.csproj",
+        "packagesPath": "C:\\Users\\aarribas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Topology\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aarribas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\DataAccessCrossCutting.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\DataAccess\\DataAccessCrossCutting.csproj"
+              },
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\Domain\\DomainCrossCutting.csproj"
+              },
+              "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDataAccess\\TopologyDataAccess.csproj": {
+                "projectPath": "C:\\Users\\aarribas\\Source\\repos\\Topology\\TopologyDataAccess\\TopologyDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFrameworkCore.SqlServer.HierarchyId": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "NSwag.Annotations": {
+              "target": "Package",
+              "version": "[13.6.2, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.6.2, )"
+            },
+            "NSwag.Core": {
+              "target": "Package",
+              "version": "[13.6.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

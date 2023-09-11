@@ -1,0 +1,9 @@
+C:\Users\aarribas\Source\repos\Topology\Domain\bin\Debug\netcoreapp3.1\Domain.CrossCutting.deps.json
+C:\Users\aarribas\Source\repos\Topology\Domain\bin\Debug\netcoreapp3.1\Domain.CrossCutting.dll
+C:\Users\aarribas\Source\repos\Topology\Domain\bin\Debug\netcoreapp3.1\Domain.CrossCutting.pdb
+C:\Users\aarribas\Source\repos\Topology\Domain\obj\Debug\netcoreapp3.1\Domain.CrossCutting.csprojAssemblyReference.cache
+C:\Users\aarribas\Source\repos\Topology\Domain\obj\Debug\netcoreapp3.1\Domain.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\aarribas\Source\repos\Topology\Domain\obj\Debug\netcoreapp3.1\Domain.CrossCutting.AssemblyInfo.cs
+C:\Users\aarribas\Source\repos\Topology\Domain\obj\Debug\netcoreapp3.1\Domain.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\aarribas\Source\repos\Topology\Domain\obj\Debug\netcoreapp3.1\Domain.CrossCutting.dll
+C:\Users\aarribas\Source\repos\Topology\Domain\obj\Debug\netcoreapp3.1\Domain.CrossCutting.pdb

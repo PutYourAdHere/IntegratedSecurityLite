@@ -1,0 +1,13 @@
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\bin\Debug\netcoreapp3.1\TopologyDomain.deps.json
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\bin\Debug\netcoreapp3.1\TopologyDomain.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\TopologyDomain.csprojAssemblyReference.cache
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\TopologyDomain.AssemblyInfoInputs.cache
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\TopologyDomain.AssemblyInfo.cs
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\bin\Debug\netcoreapp3.1\TopologyDomain.pdb
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\TopologyDomain.csproj.CoreCompileInputs.cache
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\TopologyDomain.csproj.CopyComplete
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\TopologyDomain.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\obj\Debug\netcoreapp3.1\TopologyDomain.pdb
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\bin\Debug\netcoreapp3.1\Domain.CrossCutting.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDomain\bin\Debug\netcoreapp3.1\Domain.CrossCutting.pdb

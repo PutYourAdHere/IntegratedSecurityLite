@@ -1,0 +1,15 @@
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\TopologyDataAccess.deps.json
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\TopologyDataAccess.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\TopologyDataAccess.pdb
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\obj\Debug\netcoreapp3.1\TopologyDataAccess.csprojAssemblyReference.cache
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\obj\Debug\netcoreapp3.1\TopologyDataAccess.AssemblyInfoInputs.cache
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\obj\Debug\netcoreapp3.1\TopologyDataAccess.AssemblyInfo.cs
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\obj\Debug\netcoreapp3.1\TopologyDataAccess.csproj.CopyComplete
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\obj\Debug\netcoreapp3.1\TopologyDataAccess.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\obj\Debug\netcoreapp3.1\TopologyDataAccess.pdb
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\TopologyDomain.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\TopologyDomain.pdb
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\DataAccess.CrossCutting.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\Domain.CrossCutting.dll
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\DataAccess.CrossCutting.pdb
+C:\Users\aarribas\Source\repos\Topology\TopologyDataAccess\bin\Debug\netcoreapp3.1\Domain.CrossCutting.pdb
